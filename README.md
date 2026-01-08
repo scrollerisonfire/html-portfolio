@@ -37,10 +37,6 @@ This project is a **portfolio website** created using **HTML**, designed to pres
 
 ## 🧾 Contact
 
-If you would like to get in touch:
-- **Email:** add your email here  
-- **GitHub:** https://github.com/scrollerisonfire
-
 ---
 
 Thank you for checking out my portfolio! 🚀
